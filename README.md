@@ -7,6 +7,7 @@ calculadora com 8 funções diferentes
 - Desenvolver uma calculadora completa com 8 funções diferentes para atender às necessidades de cálculo do usuário.
 - Utilizar a linguagem C para implementar uma solução robusta e eficiente.
 - Proporcionar uma experiência de uso intuitiva e acessível, permitindo que os usuários realizem uma variedade de operações matemáticas.
+  <br>
 
 <div align="center">
 <img src="https://github.com/Saraiva97/calculadora3.0/assets/93497276/e183feda-7990-4969-a4a6-23c42c1dbb08" style="width: 150px"/>
